@@ -1,4 +1,4 @@
-# Water Quality Index (WQI) Analysis
+# Water Quality Index (WQI) Analysis- Cox's Bazar
 
 An advanced Excel-based environmental data analysis project evaluating water quality dynamics across various aquatic sampling locations. This project processes physio-chemical parameters—including pH, Dissolved Oxygen (DO), Electrical Conductivity (EC), Total Dissolved Solids (TDS), and Salinity—to compute the Water Quality Index (WQI) and classify suitability across Fresh, Marine, and Marine/Brine water types.
 
